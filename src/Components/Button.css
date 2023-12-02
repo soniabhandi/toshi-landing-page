@@ -1,0 +1,22 @@
+.btn {
+  width: 250px;
+  height: 61px;
+  flex-shrink: 0;
+  border-radius: 25px;
+  background-color: rgb(2, 79, 251);
+  font-family: poppins;
+  font-size: 20.833px;
+  font-style: normal;
+  font-weight: 400;
+  color: white;
+  line-height: normal;
+  text-transform: uppercase;
+  border: none;
+  text-align: center;
+}
+
+.btn-head {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
